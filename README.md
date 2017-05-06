@@ -41,3 +41,4 @@ fs.readFile(filepath, 'utf8', (error, data) => {
 
 - [ ] Single/double quotes option
 - [ ] Format option 
+- [ ] React-native
