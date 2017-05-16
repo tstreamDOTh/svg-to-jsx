@@ -9,6 +9,12 @@
 yarn add @balajmarius/svg-to-jsx --dev
 ```
 
+### Test 🛠
+
+```
+yarn test
+```
+
 ### Use 🛠
 
 ```
