@@ -17,7 +17,7 @@ yarn test
 
 ### Use 🛠
 
-```
+```javascript
 const fs = require('fs')
 const path = require('path')
 const transform = require('@balajmarius/svg-to-jsx')
